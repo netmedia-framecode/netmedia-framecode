@@ -15,8 +15,7 @@
 
 ##### 🚀 Journey from 2018 - Present
 
-> [NOTE]
-> **July 2018**
+> **July 2018** <br>
 > NET Code Founding
 
 > **November 2022**
@@ -24,7 +23,6 @@
 
 > **October 2023**
 > Change of business focus
-
 
 ##### 🗂️ Latest Repository
 
