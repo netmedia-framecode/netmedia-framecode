@@ -99,11 +99,30 @@
 
 </details>
 
-##### 🗂️ Latest Repository
+#### 🗂️ Latest Repository
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netmedia-framecode&repo=gui_free)](https://github.com/netmedia-framecode/gui_free) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netmedia-framecode&repo=LOMPATAPI)](https://github.com/netmedia-framecode/LOMPATAPI)
 
 [![NFT Indonesia's GitHub stats](https://github-readme-stats.vercel.app/api?username=netmedia-framecode&show_icons=true&theme=algolia)](https://github.com/netmedia-framecode/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netmedia-framecode&layout=compact&theme=algolia)](https://github.com/netmedia-framecode)
+
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ptkgaep2xbue6hb51q4dvfl4i)
+
+  </td>
+  <td width="50%">
+
+&nbsp;<p align="center">This repository is licensed and copyrighted<br><br>
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/company/netmedia-framecode/)
+[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DXDwSWwzpdLWrwBFQSFBqZNnwpcclWdrTLhxNtNrHBVKlZGLxHTDFXjdZmFcsVVWKqgmkFxZJCntkfXvsVGcjXWrzzGkXvkJvfzpsPvwZZvXXBGDvjnkCdBV)
+[![Visits](https://komarev.com/ghpvc/?username=netmedia-framecode&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/netmedia-framecode)
+
+  </p>
+  </td>
+</table>
 
 <img src="https://raw.githubusercontent.com/netmedia-framecode/netmedia-framecode/output/snake.svg" alt="Snake animation" />
 
