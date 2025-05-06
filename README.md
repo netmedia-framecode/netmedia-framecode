@@ -110,7 +110,7 @@
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ptkgaep2xbue6hb51q4dvfl4i)
+&nbsp; <br> ![Alt](https://spotify-recently-played-readme.vercel.app/api?user=ptkgaep2xbue6hb51q4dvfl4i&count=5)
 
   </td>
   <td width="50%">
