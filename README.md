@@ -34,9 +34,9 @@
 <details>
 <summary> 📄 Company Data</summary>
 
-| Name Company                 | Address                                                                                                      | Telp             | Email                          | SK AHU                         | NIB            | NPWP               | Bank account                      | Business Field    |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------------ | ------------------------------ | -------------- | ------------------ | --------------------------------- | ----------------- |
-| Netmedia Framecode Teknologi | 95 W.J. Lalamentik Street, Fatululi Subdistrict, Oebobo District, Kupang City, East Nusa Tenggara, Indonesia | +62 811-3827-421 | support@netmedia-framecode.com | AHU-00****.AH.01.30.Tahun 2025 | 27022500**\*** | 1000000000**\*\*** | 314**\*\*\*** (BANK CENTRAL ASIA) | Software, Digital |
+| Name Company                 | Address                                                                                                      | Telp             | Email                          | SK AHU                             | NIB            | NPWP               | Bank account                      | Business Field    |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------------ | ---------------------------------- | -------------- | ------------------ | --------------------------------- | ----------------- |
+| Netmedia Framecode Teknologi | 95 W.J. Lalamentik Street, Fatululi Subdistrict, Oebobo District, Kupang City, East Nusa Tenggara, Indonesia | +62 811-3827-421 | support@netmedia-framecode.com | AHU-00\*\*\*\*.AH.01.30.Tahun 2025 | 27022500**\*** | 1000000000**\*\*** | 314**\*\*\*** (BANK CENTRAL ASIA) | Software, Digital |
 
 </details>
 
@@ -60,33 +60,46 @@
 <summary>  📑 Our Services</summary>
 
 - Basic <br>
-Suitable for bloggers/influencers/portfolio as a personal website
+  Suitable for bloggers/influencers/portfolio as a personal website
 - Standard <br>
-Cocok untuk UMKM yang terdaftar dan usaha kecil lainnya
+  Cocok untuk UMKM yang terdaftar dan usaha kecil lainnya
 - Professional <br>
-Suitable for large companies or startups
+  Suitable for large companies or startups
 - Task <br>
-Serving school assignments or assignments for final semester students
+  Serving school assignments or assignments for final semester students
 
 </details>
 
 <details>
 <summary>  🗓️ Project Timeline</summary>
+
+![Project Timeline](img/PT.png)
+
 </details>
 
 <details>
 <summary>  🌐 List of Projects We Work On</summary>
+
+- `UGD HP` <sup>[UGD HP](https://ugdhp.my.id/)</sup>
+- `Jubentos Timor Adventures` <sup>[Jubentos Timor Adventures](https://jubentostimoradventure.com/)
+- `Joflobamorratass` <sup>[Joflobamorratass](https://www.joflobamorratass.com/)</sup>
+- `Money Changer Kupang` <sup>[Money Changer Kupang](https://moneychangerkupang.com/)</sup>
+- `BPPPPS GMIT Kupang` <sup>[BPPPPS GMIT Kupang](https://bp4sgmit.com/)</sup>
+- `KSP CU Gerbang Kasih` <sup>[KSP CU Gerbang Kasih](https://ksp-cu-gerbangkasih.com/)</sup>
+- `POSPERA` <sup>[POSPERA](https://posperakotabekasi.org)</sup>
+- `Kemenkes Poltekkes Kupang`
+- `RSUP Dr. Ben Mboi Kupang`
+
 </details>
 
 <details>
 <summary>  📊 Sales Statistics</summary>
+
+![Project Timeline](img/SS.png)
+
 </details>
 
-<details>
-<summary>  🗂️ Latest Repository</summary>
-</details>
-
-<br>
+##### 🗂️ Latest Repository
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netmedia-framecode&repo=gui_free)](https://github.com/netmedia-framecode/gui_free) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netmedia-framecode&repo=LOMPATAPI)](https://github.com/netmedia-framecode/LOMPATAPI)
 
