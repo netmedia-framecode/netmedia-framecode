@@ -16,7 +16,7 @@
 ##### 🚀 Journey from 2018 - Present
 
 > **July 2018** <br>
-> NET Code Founding
+> <p style="color: #fff;">NET Code Founding</p>
 
 > **November 2022**
 > Change of name in Netmedia Frame Code business license registration
