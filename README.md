@@ -103,14 +103,20 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netmedia-framecode&repo=gui_free&theme=algolia)](https://github.com/netmedia-framecode/gui_free) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netmedia-framecode&repo=LOMPATAPI&theme=algolia)](https://github.com/netmedia-framecode/LOMPATAPI)
 
-[![NFT Indonesia's GitHub stats](https://github-readme-stats.vercel.app/api?username=netmedia-framecode&show_icons=true&theme=algolia)](https://github.com/netmedia-framecode/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netmedia-framecode&layout=compact&theme=algolia)](https://github.com/netmedia-framecode)
+<p>By supporting us, you help create greater opportunities for the development of software that remains completely free for you.</p>
+
+[![Support](img/saweria.png)](https://saweria.co/widgets/qr?streamKey=81f622da4a295e643c88bb4cc4adae79)
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=netmedia-framecode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=netmedia-framecode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 <table width="100%"> 
   <tr>
   <td width="60%">
 
-&nbsp; <br> ![Alt](https://spotify-recently-played-readme.vercel.app/api?user=ptkgaep2xbue6hb51q4dvfl4i&count=5)
+&nbsp; <br> [![Alt](https://nocache.advaith.workers.dev?url=https://spotify-recently-played-readme.vercel.app/api?user=ptkgaep2xbue6hb51q4dvfl4i&count=5)](https://open.spotify.com/user/ptkgaep2xbue6hb51q4dvfl4i?si=c725e7f67f924114)
 
   </td>
   <td width="40%">
@@ -135,3 +141,14 @@
 </picture>
 
 ###
+
+
+
+
+
+
+
+
+
+
+
