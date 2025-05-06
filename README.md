@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/netmedia-framecode) [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/netmediaframecode-group) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/netmedia-framecode/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/netmediaframecode) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/netmediaframecode/) [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@netmediaframecode) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/628113827421)
 
-##### 🏆 Technology Tools and Development Languages
+#### 🏆 Technology Tools and Development Languages
 
 [![My Skills](https://skillicons.dev/icons?i=php,javascript,html,css,java,laravel,tailwind,bootstrap,django,dart,flutter&theme=dark&perline=6)](https://skillicons.dev)
 
@@ -101,7 +101,7 @@
 
 #### 🗂️ Latest Repository
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netmedia-framecode&repo=gui_free)](https://github.com/netmedia-framecode/gui_free) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netmedia-framecode&repo=LOMPATAPI)](https://github.com/netmedia-framecode/LOMPATAPI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netmedia-framecode&repo=gui_free&theme=algolia)](https://github.com/netmedia-framecode/gui_free) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netmedia-framecode&repo=LOMPATAPI&theme=algolia)](https://github.com/netmedia-framecode/LOMPATAPI)
 
 [![NFT Indonesia's GitHub stats](https://github-readme-stats.vercel.app/api?username=netmedia-framecode&show_icons=true&theme=algolia)](https://github.com/netmedia-framecode/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netmedia-framecode&layout=compact&theme=algolia)](https://github.com/netmedia-framecode)
