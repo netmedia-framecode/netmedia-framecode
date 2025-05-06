@@ -108,12 +108,12 @@
 
 <table width="100%"> 
   <tr>
-  <td width="50%">
+  <td width="60%">
 
 &nbsp; <br> ![Alt](https://spotify-recently-played-readme.vercel.app/api?user=ptkgaep2xbue6hb51q4dvfl4i&count=5)
 
   </td>
-  <td width="50%">
+  <td width="40%">
 
 &nbsp;<p align="center">This repository is licensed and copyrighted<br><br>
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/company/netmedia-framecode/)
