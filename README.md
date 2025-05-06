@@ -43,17 +43,31 @@
 <details>
 <summary>  ✊🏽 Visi & Misi</summary>
 
-> [!NOTE] <br>
-> `Visi` To be an innovative software solution provider that helps businesses and organizations digitally transform with efficient, quality, and sustainable technology.
+`Visi` To be an innovative software solution provider that helps businesses and organizations digitally transform with efficient, quality, and sustainable technology.
+
+`Misi` Developing adaptive and scalable digital solutions to meet the needs of the industry, increasing efficiency and business competitiveness, while prioritizing quality and security in every product developed. Netmedia Framecode is committed to continuing to innovate, collaborate, and provide responsive and professional services to support the growth of a sustainable digital ecosystem.
 
 </details>
 
 <details>
 <summary>  👨🏻‍💻 Organizational structure</summary>
+
+![Struktur Organisasi](img/SO.png)
+
 </details>
 
 <details>
 <summary>  📑 Our Services</summary>
+
+- Basic <br>
+Suitable for bloggers/influencers/portfolio as a personal website
+- Standard <br>
+Cocok untuk UMKM yang terdaftar dan usaha kecil lainnya
+- Professional <br>
+Suitable for large companies or startups
+- Task <br>
+Serving school assignments or assignments for final semester students
+
 </details>
 
 <details>
