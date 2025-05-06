@@ -15,7 +15,7 @@
 
 ##### 🚀 Journey from 2018 - Present
 
-> [!NOTE]
+> [NOTE]
 > **July 2018**
 > NET Code Founding
 
