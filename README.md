@@ -8,12 +8,14 @@
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true) ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776) ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776) [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
-##### 🏢 About Me
-
+<details>
+<summary> 🏢 About Me</summary>
 <p>Netmedia Framecode is a digital software developer service that has been established since July 2018. Our goal was to help Small and Medium Enterprises (SMEs) in efficiency and digitalization of business to the global market.</p>
 <p>We strive to make changes from conventional systems such as recording in sales books to integrated system-based reporting that can make it easier for business actors to improve the effectiveness, efficiency of business processes and SME operations. With digitalization, business actors have the opportunity to create global-scale products and reach a wide market, not just focused on one area.</p>
+</details>
 
-##### 🚀 Journey from 2018 - Present
+<details>
+<summary> 🚀 Journey from 2018 - Present</summary>
 
 > **July 2018** <br>
 > NET Code Founding
@@ -22,11 +24,55 @@
 > Change of name in Netmedia Frame Code business license registration
 
 > **October 2023** <br>
-> Change of business focus
-> | [ ] Website Development Services
-> | [x] Software Developer Digital
+> Change of business focus <br>
+>
+> - [ ] Website Development Services <br>
+> - [x] Software Developer Digital
 
-##### 🗂️ Latest Repository
+</details>
+
+<details>
+<summary> 📄 Company Data</summary>
+
+| Name Company                 | Address                                                                                                      | Telp             | Email                          | SK AHU                         | NIB            | NPWP               | Bank account                      | Business Field    |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------------ | ------------------------------ | -------------- | ------------------ | --------------------------------- | ----------------- |
+| Netmedia Framecode Teknologi | 95 W.J. Lalamentik Street, Fatululi Subdistrict, Oebobo District, Kupang City, East Nusa Tenggara, Indonesia | +62 811-3827-421 | support@netmedia-framecode.com | AHU-007635.AH.01.30.Tahun 2025 | 27022500**\*** | 1000000000**\*\*** | 314**\*\*\*** (BANK CENTRAL ASIA) | Software, Digital |
+
+</details>
+
+<details>
+<summary>  ✊🏽 Visi & Misi</summary>
+
+> [!NOTE] <br>
+> `Visi` To be an innovative software solution provider that helps businesses and organizations digitally transform with efficient, quality, and sustainable technology.
+
+</details>
+
+<details>
+<summary>  👨🏻‍💻 Organizational structure</summary>
+</details>
+
+<details>
+<summary>  📑 Our Services</summary>
+</details>
+
+<details>
+<summary>  🗓️ Project Timeline</summary>
+</details>
+
+<details>
+<summary>  🌐 List of Projects We Work On</summary>
+</details>
+
+<details>
+<summary>  📊 Sales Statistics</summary>
+</details>
+
+<details>
+<summary>  🗂️ Latest Repository</summary>
+</details>
+
+<br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netmedia-framecode&repo=gui_free)](https://github.com/netmedia-framecode/gui_free) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netmedia-framecode&repo=LOMPATAPI)](https://github.com/netmedia-framecode/LOMPATAPI)
 
