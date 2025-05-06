@@ -103,10 +103,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netmedia-framecode&repo=gui_free&theme=algolia)](https://github.com/netmedia-framecode/gui_free) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netmedia-framecode&repo=LOMPATAPI&theme=algolia)](https://github.com/netmedia-framecode/LOMPATAPI)
 
-<p>By supporting us, you help create greater opportunities for the development of software that remains completely free for you.</p>
-
-[![Support](img/saweria.png)](https://saweria.co/widgets/qr?streamKey=81f622da4a295e643c88bb4cc4adae79)
-
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=netmedia-framecode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=netmedia-framecode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -129,6 +125,10 @@
   </p>
   </td>
 </table>
+
+<p>By supporting us, you help create greater opportunities for the development of software that remains completely free for you.</p>
+
+[![Support](img/saweria.png)](https://saweria.co/widgets/qr?streamKey=81f622da4a295e643c88bb4cc4adae79)
 
 <img src="https://raw.githubusercontent.com/netmedia-framecode/netmedia-framecode/output/snake.svg" alt="Snake animation" />
 
