@@ -36,7 +36,7 @@
 
 | Name Company                 | Address                                                                                                      | Telp             | Email                          | SK AHU                         | NIB            | NPWP               | Bank account                      | Business Field    |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------------ | ------------------------------ | -------------- | ------------------ | --------------------------------- | ----------------- |
-| Netmedia Framecode Teknologi | 95 W.J. Lalamentik Street, Fatululi Subdistrict, Oebobo District, Kupang City, East Nusa Tenggara, Indonesia | +62 811-3827-421 | support@netmedia-framecode.com | AHU-007635.AH.01.30.Tahun 2025 | 27022500**\*** | 1000000000**\*\*** | 314**\*\*\*** (BANK CENTRAL ASIA) | Software, Digital |
+| Netmedia Framecode Teknologi | 95 W.J. Lalamentik Street, Fatululi Subdistrict, Oebobo District, Kupang City, East Nusa Tenggara, Indonesia | +62 811-3827-421 | support@netmedia-framecode.com | AHU-00****.AH.01.30.Tahun 2025 | 27022500**\*** | 1000000000**\*\*** | 314**\*\*\*** (BANK CENTRAL ASIA) | Software, Digital |
 
 </details>
 
