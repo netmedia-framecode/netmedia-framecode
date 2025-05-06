@@ -10,6 +10,20 @@
 
 ##### 🏢 About Me
 
+<p>Netmedia Framecode is a digital software developer service that has been established since July 2018. Our goal was to help Small and Medium Enterprises (SMEs) in efficiency and digitalization of business to the global market.</p>
+<p>We strive to make changes from conventional systems such as recording in sales books to integrated system-based reporting that can make it easier for business actors to improve the effectiveness, efficiency of business processes and SME operations. With digitalization, business actors have the opportunity to create global-scale products and reach a wide market, not just focused on one area.</p>
+
+##### 🚀 Journey from 2018 - Present
+
+> [!NOTE]
+> **July 2018**
+> NET Code Founding
+
+> **November 2022**
+> Change of name in Netmedia Frame Code business license registration
+
+> **October 2023**
+> Change of business focus
 
 
 ##### 🗂️ Latest Repository
